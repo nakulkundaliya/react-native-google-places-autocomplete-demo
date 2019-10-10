@@ -25,9 +25,9 @@
 
 ## Screenshots
 
-![alt text](https://github.com/nakulkundaliya/react-native-google-places-autocomplete-demo/blob/master/screenshots/1.png){:height="50%" width="50%"}
+![alt text](https://github.com/nakulkundaliya/react-native-google-places-autocomplete-demo/blob/master/screenshots/1.png)
 
-![alt text](https://github.com/nakulkundaliya/react-native-google-places-autocomplete-demo/blob/master/screenshots/2.png){:height="50%" width="50%"}
+![alt text](https://github.com/nakulkundaliya/react-native-google-places-autocomplete-demo/blob/master/screenshots/2.png)
 
-![alt text](https://github.com/nakulkundaliya/react-native-google-places-autocomplete-demo/blob/master/screenshots/3.png){:height="50%" width="50%"}
+![alt text](https://github.com/nakulkundaliya/react-native-google-places-autocomplete-demo/blob/master/screenshots/3.png)
 
