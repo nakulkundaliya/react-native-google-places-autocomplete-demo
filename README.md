@@ -22,3 +22,12 @@
     $ react-native run-android
 
 ```
+
+## Screenshots
+
+![alt text](https://github.com/nakulkundaliya/react-native-google-places-autocomplete-demo/blob/master/screenshots/1.png)
+
+![alt text](https://github.com/nakulkundaliya/react-native-google-places-autocomplete-demo/blob/master/screenshots/2.png)
+
+![alt text](https://github.com/nakulkundaliya/react-native-google-places-autocomplete-demo/blob/master/screenshots/3.png)
+
